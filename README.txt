@@ -3,8 +3,6 @@ This is a new file.
 
 This is the second line - to be deleted
 
-## more lines to add
-more adding lines
+website content
 
-
-more lines 3333
+1. deleted 3 lines
